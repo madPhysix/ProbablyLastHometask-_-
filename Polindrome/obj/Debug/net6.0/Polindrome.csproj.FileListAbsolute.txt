@@ -1,0 +1,15 @@
+C:\Users\Predator\source\repos\Polindrome\Polindrome\bin\Debug\net6.0\Polindrome.exe
+C:\Users\Predator\source\repos\Polindrome\Polindrome\bin\Debug\net6.0\Polindrome.deps.json
+C:\Users\Predator\source\repos\Polindrome\Polindrome\bin\Debug\net6.0\Polindrome.runtimeconfig.json
+C:\Users\Predator\source\repos\Polindrome\Polindrome\bin\Debug\net6.0\Polindrome.dll
+C:\Users\Predator\source\repos\Polindrome\Polindrome\bin\Debug\net6.0\Polindrome.pdb
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.csproj.AssemblyReference.cache
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.AssemblyInfoInputs.cache
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.AssemblyInfo.cs
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.dll
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\refint\Polindrome.dll
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.pdb
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\Polindrome.genruntimeconfig.cache
+C:\Users\Predator\source\repos\Polindrome\Polindrome\obj\Debug\net6.0\ref\Polindrome.dll
